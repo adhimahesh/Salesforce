@@ -1,0 +1,25 @@
+Test file for Check-in
+Conflict code from eclipse 1
+Conflict code from eclipse 2
+Conflict code from eclipse 3
+Conflict code from eclipse 4
+
+Conflict test 1
+Conflict test 2
+
+Conflict test 3
+Conflict test 4
+
+
+Conflict test 5
+Conflict test 6
+
+
+Conflict test 7
+Conflict test 8
+
+Test file for checkin
+Sample 1 for conflict
+Sample 2 for conflict
+Sample 3 for conflict
+Sample 4 for conflict
